@@ -3,7 +3,7 @@ import 'package:on_boarding_elancer2/login_screen.dart';
 import 'package:on_boarding_elancer2/screens/app/drawer/faqs_screen.dart';
 import 'package:on_boarding_elancer2/screens/app/drawer/favorite_screen.dart';
 import 'package:on_boarding_elancer2/screens/app/drawer/frequent_question_screen.dart';
-import 'package:on_boarding_elancer2/screens/app/drawer/tabs/second_favorite_screen.dart';
+import 'package:on_boarding_elancer2/screens/app/drawer/second_favorite_screen.dart';
 import 'package:on_boarding_elancer2/screens/app/drawer/tabs/thired_tab_screen.dart';
 import 'package:on_boarding_elancer2/screens/app/bottom_navigation_screen.dart';
 import 'package:on_boarding_elancer2/screens/app/categories_screen.dart';
